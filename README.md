@@ -38,7 +38,7 @@ OSINT Brasil é uma ferramenta poderosa para consulta e validação de dados pú
 
 ```bash
 # Clone o repositório
-git clone https://github.com/vangoghdev/osint-brazil.git
+git clone https://github.com/ganesha1533/osint-brazil.git
 cd osint-brazil
 
 # Instale as dependências
@@ -184,7 +184,7 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 
 ### 🎨 Desenvolvido por **VanGogh Dev**
 
-[![GitHub](https://img.shields.io/badge/GitHub-VanGoghDev-black?style=flat&logo=github)](https://github.com/vangoghdev)
+[![GitHub](https://img.shields.io/badge/GitHub-ganesha1533-black?style=flat&logo=github)](https://github.com/ganesha1533)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+595%20987%20352983-25D366?style=flat&logo=whatsapp)](https://wa.me/595987352983)
 
 **☕ Me apoie:**
